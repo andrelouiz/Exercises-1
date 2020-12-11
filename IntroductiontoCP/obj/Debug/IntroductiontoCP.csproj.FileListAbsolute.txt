@@ -1,0 +1,6 @@
+/Users/andrelouiz/Projects/IntroductiontoCP/IntroductiontoCP/bin/Debug/IntroductiontoCP.exe
+/Users/andrelouiz/Projects/IntroductiontoCP/IntroductiontoCP/bin/Debug/IntroductiontoCP.pdb
+/Users/andrelouiz/Projects/IntroductiontoCP/IntroductiontoCP/obj/Debug/IntroductiontoCP.csprojAssemblyReference.cache
+/Users/andrelouiz/Projects/IntroductiontoCP/IntroductiontoCP/obj/Debug/IntroductiontoCP.csproj.CoreCompileInputs.cache
+/Users/andrelouiz/Projects/IntroductiontoCP/IntroductiontoCP/obj/Debug/IntroductiontoCP.exe
+/Users/andrelouiz/Projects/IntroductiontoCP/IntroductiontoCP/obj/Debug/IntroductiontoCP.pdb
