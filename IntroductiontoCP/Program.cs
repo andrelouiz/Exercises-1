@@ -82,7 +82,7 @@ namespace IntroductiontoCP
             Console.WriteLine("Write your birthday: ");
             int bday = int.Parse(Console.ReadLine());
 
-            Console.Write($"Andre's birthdat is december {bday}th.");
+            Console.Write($"Andre's birthday is december {bday}th.");
 
           
         }
